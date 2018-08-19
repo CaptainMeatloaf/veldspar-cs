@@ -24,7 +24,6 @@ namespace SimpleWallet
                         Console.WriteLine("=====   Commands   =====");
                         Console.WriteLine("--walletfile          : specifies the name of the wallet to open");
                         Console.WriteLine("--password            : the password to decrypt the wallet");
-                        Console.WriteLine("--debug               : enables debugging output");
                         Console.WriteLine();
                         return;
 
